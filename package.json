@@ -1,0 +1,29 @@
+{
+  "name": "moneta-nfts",
+  "version": "1.0.0",
+  "main": "./src/mint_nft.ts",
+  "scripts": {
+    "mint": "yarn ts-node ./src/mint_nft.ts",
+    "build": "yarn tsc"
+  },
+  "keywords": [
+    "Devwraithe"
+  ],
+  "author": "devwraithe",
+  "license": "ISC",
+  "description": "NFT minting script using Metaplex UMI. A subset of the Moneta project.",
+  "devDependencies": {
+    "@types/node": "^24.9.1",
+    "@types/prompt-sync": "^4.2.3",
+    "eslint": "^9.38.0",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-core": "^1.7.0",
+    "@metaplex-foundation/umi": "^1.4.1",
+    "@metaplex-foundation/umi-bundle-defaults": "^1.4.1",
+    "@metaplex-foundation/umi-uploader-irys": "^1.4.1"
+  }
+}
