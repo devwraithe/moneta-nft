@@ -1,5 +1,4 @@
 # Moneta NFT
 
-#[!CAUTION]
-
+> [!CAUTION]
 > Documentation en route
