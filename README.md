@@ -60,11 +60,9 @@ Right now, NFT trading on Solana happens manually through a peer-to-peer process
 - No standardized pricing or listings
 - Difficult to find buyers or compare NFT values
 
-### Our Solution: Moneta NFT Marketplace
+### Our Solution: NFT Exchange Escrow
 
-We're building a complete trading solution that eliminates these problems:
-
-**Smart Contract Escrow**
+We're building a complete trading solution that provides these solutions:
 
 - Automatic holding of funds until both parties fulfill the transaction
 - NFT and payment released simultaneously
