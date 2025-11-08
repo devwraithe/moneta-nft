@@ -42,19 +42,19 @@ Right now, NFT trading on Solana happens manually through a peer-to-peer process
 
 ### The Problems
 
-**High Risk of Scams**
+**1. High Risk of Scams**
 
 - Either party can disappear after receiving payment or the NFT
 - No way to reverse fraudulent transactions
 - Buyers risk sending money and receiving nothing
 
-**No Security or Verification**
+**2. No Security or Verification**
 
 - No trusted third party to verify the exchange
 - Can't guarantee both sides will fulfill their end of the deal
 - No dispute resolution if something goes wrong
 
-**Time-Consuming & Inefficient**
+**3. Time-Consuming & Inefficient**
 
 - Manual back-and-forth communication
 - No standardized pricing or listings
@@ -64,13 +64,7 @@ Right now, NFT trading on Solana happens manually through a peer-to-peer process
 
 We're building a complete trading solution that eliminates these problems:
 
-**🏪 NFT Marketplace**
-
-- Browse and list NFTs in one central location
-- Transparent pricing and NFT history
-- Easy discovery for buyers and sellers
-
-**🔒 Smart Contract Escrow**
+**Smart Contract Escrow**
 
 - Automatic holding of funds until both parties fulfill the transaction
 - NFT and payment released simultaneously
