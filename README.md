@@ -2,7 +2,7 @@
 
 A Solana-based program for minting NFTs quickly and securely. Moneta NFT is part of the Moneta ecosystem, focused on making NFT creation on Solana simple and straightforward.
 
-### Setup & Usage
+## Setup & Usage
 
 1. Clone the repository:
 
